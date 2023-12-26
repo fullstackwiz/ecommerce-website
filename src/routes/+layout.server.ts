@@ -1,3 +1,1 @@
-export function load() {
-  console.log("aaa");
-}
+export function load() {}

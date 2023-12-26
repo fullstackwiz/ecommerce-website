@@ -33,8 +33,8 @@ export default {
         xsm: "380px",
       },
       backgroundImage: {
-        "tech-rocket": "url('src/lib/images/tech-rocket.jpg')",
-        "game-rocket": "url('src/lib/images/game-rocket.jpg')",
+        "tech-rocket": "url('$lib/images/tech-rocket.jpg')",
+        "game-rocket": "url('$lib/images/game-rocket.jpg')",
       },
     },
   },

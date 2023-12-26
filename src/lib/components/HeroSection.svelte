@@ -2,6 +2,7 @@
   import { ButtonVariant } from "../../types/Button";
   import Button from "./Button.svelte";
   import ArrowIcon from "$lib/icons/ArrowIcon.svelte";
+  import laptopImage from "$lib/images/laptop.png";
 </script>
 
 <h1
@@ -14,7 +15,7 @@
     </span>
     <div class="w-[30vw] relative" />
     <img
-      src="src/lib/images/laptop.png"
+      src={laptopImage}
       alt="Exclusive Laptops, Low Prices, Buy Now!"
       class="absolute left-[7vw] -top-[11vw] w-[43vw]"
     />
