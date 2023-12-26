@@ -1,5 +1,5 @@
 <script>
-  import "@splidejs/splide/css";
+  import "@splidejs/svelte-splide/css";
   import HeroSection from "../../lib/components/HeroSection.svelte";
   import DiscountedProducts from "../../lib/components/DiscountedProducts.svelte";
   import FeaturedSection from "../../lib/components/FeaturedSection.svelte";
